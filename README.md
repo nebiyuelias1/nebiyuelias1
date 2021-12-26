@@ -2,5 +2,5 @@
 
 - Self-taught Full Stack dev, Mentor, and Educator from Ethiopia 🇪🇹.
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Nebiyu's github stats](https://github-readme-stats.vercel.app/api?username=nebiyuelias1&theme=dark&show_icons=true&count_private=true)](https://github.com/nebiyuelias1)
 
