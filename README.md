@@ -15,6 +15,11 @@ Self-taught Full Stack dev, Mentor, and Educator from Ethiopia 🇪🇹.
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nebiyuelias1&theme=dracula&hide_border=true)
 
 ---
-[![Nebiyu's github stats](https://github-readme-stats.vercel.app/api?username=nebiyuelias1&theme=dark&show_icons=true&count_private=true)](https://github.com/nebiyuelias1)
+### Stats 📈
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nebiyuelias1&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="nebiyuelias1" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nebiyuelias1&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="nebiyuelias1" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nebiyuelias1&theme=highcontrast&hide_border=true" alt="nebiyuelias1" />
+</p>
 
 
