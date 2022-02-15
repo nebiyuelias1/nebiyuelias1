@@ -12,7 +12,7 @@ Self-taught Full Stack dev, Mentor, and Educator from Ethiopia 🇪🇹.
 - [Be careful when using default arguments in Python](https://medium.com/@nebiyuelias1/be-careful-when-using-default-arguments-in-python-fd92df94efee)
 
 ---
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#nebiyuelias1&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nebiyuelias1&theme=dracula&hide_border=true)
 
 ---
 [![Nebiyu's github stats](https://github-readme-stats.vercel.app/api?username=nebiyuelias1&theme=dark&show_icons=true&count_private=true)](https://github.com/nebiyuelias1)
