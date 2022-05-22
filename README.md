@@ -16,10 +16,11 @@ Self-taught Full Stack dev, Mentor, and Educator from Ethiopia 🇪🇹.
 
 ---
 ### Stats 📈
+<p align="center"><a href="https://app.daily.dev/nebiyu1"><img src="https://api.daily.dev/devcards/674906ca88364cfeb40a354a31a5e3b2.png?r=s4q" width="400" alt="Nebiyu's Dev Card"/></a></p>
+
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nebiyuelias1&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="nebiyuelias1" /> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nebiyuelias1&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="nebiyuelias1" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nebiyuelias1&theme=highcontrast&hide_border=true" alt="nebiyuelias1" />
 </p>
-
 
