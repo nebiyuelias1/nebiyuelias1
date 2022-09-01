@@ -10,6 +10,7 @@ Self-taught Full Stack dev, Mentor, and Educator from Ethiopia 🇪🇹.
 ---
 ### 📕 Latest Blog Posts
 - [Be careful when using default arguments in Python](https://medium.com/@nebiyuelias1/be-careful-when-using-default-arguments-in-python-fd92df94efee)
+- [How to set up a CI/CD pipeline for a Flutter project on GitHub](https://hamsalabs.hashnode.dev/how-to-set-up-a-cicd-pipeline-for-a-flutter-project-on-github)
 
 ---
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nebiyuelias1&theme=dracula&hide_border=true)
