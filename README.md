@@ -9,6 +9,7 @@ Self-taught Full Stack dev, Mentor, and Educator from Ethiopia 🇪🇹.
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@nebiyu1)
 ---
 ### 📕 Latest Blog Posts
+- [What is WebAssembly?](https://medium.com/@nebiyuelias1/a-brief-introduction-to-webassembly-cd283147220c)
 - [How I used cron jobs to automate repetitive tasks on my Django web app](https://medium.com/@nebiyuelias1/how-i-used-cron-jobs-to-automate-repetitive-tasks-on-my-django-web-app-18f2f7a8ab26)
 - [What is the meaning behind those ~ and ^ symbols in your package.json file?](https://medium.com/@nebiyuelias1/what-is-the-meaning-behind-those-and-symbols-in-your-package-json-file-ef27ba6bf7eb)
 - [How to set up a CI/CD pipeline for a Flutter project on GitHub](https://hamsalabs.hashnode.dev/how-to-set-up-a-cicd-pipeline-for-a-flutter-project-on-github)
