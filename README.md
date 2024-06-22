@@ -9,6 +9,7 @@ Self-taught Full Stack dev, Mentor, and Educator from Ethiopia 🇪🇹.
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@nebiyu1)
 ---
 ### 📕 Latest Blog Posts
+- [Top 5 ways you should be using copilot](https://medium.com/@nebiyuelias1/top-5-ways-you-should-be-using-copilot-7fa92e83364e)
 - [My Top 10 VS Code Shortcuts for Productivity](https://medium.com/@nebiyuelias1/my-top-10-vs-code-shortcuts-for-productivity-9e474b3219b1)
 - [Scaling Databases in the Tech World: Best Practices Unveiled](https://dev.to/nebiyuelias1/scaling-databases-in-the-tech-world-best-practices-unveiled-5c3n)
 - [When To Use SQL vs NoSQL: An Expert Guide to Databases](https://five.co/when-to-use-sql-vs-nosql/)
