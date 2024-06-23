@@ -1,13 +1,28 @@
 # ሰላም(/ˈsälam/) 👋, I'm Nebiyu!
-Self-taught Full Stack dev, Mentor, and Educator from Ethiopia 🇪🇹.
 
----
-### You can find me on:
+I'm a software engineer dedicated to solving problems and creating value through technology.
+
+### 🚀 About Me
+- 🌍 Based in Taiwan 🇹🇼, originally from Ethiopia 🇪🇹
+- 💼 Senior dev with 5+ years of experience
+- 📚 Passionate about mentoring and educating
+- 🛠️ Always learning and exploring new technologies
+- 📖 Currently studying Mandarin
+
+### 🛠️ Technologies & Tools
+- **Languages:** JavaScript, TypeScript, Python, Java
+- **Frontend:** React, Angular, Vue.js, HTML, CSS
+- **Backend:** Node.js, Express, Django, .NET Core
+- **Databases:** MongoDB, PostgreSQL, MySQL, SQL Server
+- **DevOps:** Docker, GitHub Actions
+- **Cloud:** AWS, Azure, Google Cloud Platform
+
+### 🔗 You can find me on:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nebex_elias)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nebiyu-talefe-8a2b24168)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nebiyuelias1)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@nebiyu1)
----
+
 ### 📕 Latest Blog Posts
 - [Top 5 ways you should be using copilot](https://medium.com/@nebiyuelias1/top-5-ways-you-should-be-using-copilot-7fa92e83364e)
 - [My Top 10 VS Code Shortcuts for Productivity](https://medium.com/@nebiyuelias1/my-top-10-vs-code-shortcuts-for-productivity-9e474b3219b1)
@@ -19,11 +34,7 @@ Self-taught Full Stack dev, Mentor, and Educator from Ethiopia 🇪🇹.
 - [How to set up a CI/CD pipeline for a Flutter project on GitHub](https://hamsalabs.hashnode.dev/how-to-set-up-a-cicd-pipeline-for-a-flutter-project-on-github)
 - [Be careful when using default arguments in Python](https://medium.com/@nebiyuelias1/be-careful-when-using-default-arguments-in-python-fd92df94efee)
 
----
-[!GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nebiyuelias1&theme=dracula&hide_border=true)
-
----
-### Stats 📈
+### 📈 Stats
 <p align="center"><a href="https://github.com/nebiyuelias1/nebiyuelias1/blob/main/devcard.svg"><img src="https://api.daily.dev/devcards/674906ca88364cfeb40a354a31a5e3b2.png?r=s4q" width="400" alt="Nebiyu's Dev Card"/></a></p>
 
 <p align="center">
