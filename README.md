@@ -7,7 +7,7 @@ I'm a software engineer dedicated to solving problems and creating value through
 - 💼 Senior dev with 5+ years of experience
 - 📚 Passionate about mentoring and educating
 - 🛠️ Always learning and exploring new technologies
-- 📖 Currently studying Mandarin
+- 📖 Currently studying Mandarin, you can see my progress [here](https://nebiyuelias1.github.io/Mandarin-progression/).
 
 ### 🛠️ Technologies & Tools
 - **Languages:** JavaScript, TypeScript, Python, Java
