@@ -7,7 +7,7 @@
 - 🌍 Based in Taiwan 🇹🇼, originally from Ethiopia 🇪🇹
 - 💼 Senior dev with 6+ years of experience
 - 🛠️ Working on [creolio](https://creolio.com/) - a language learning app
-- 📖 Currently studying Mandarin, you can see my progress [here](https://nebiyuelias1.github.io/Mandarin-progression/).
+- 📖 Currently studying Mandarin, you can see my progress [here](https://mandarin.netale.et/).
 
 ### 🛠️ Technologies & Tools
 - **Languages:** JavaScript, TypeScript, Python, Java
