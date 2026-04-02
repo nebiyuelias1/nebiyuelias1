@@ -4,18 +4,9 @@
 ![Today](https://wakapi.netale.et/api/badge/nebiyuelias1/interval:today?label=today)
 
 ### 🚀 About Me
-- 🌍 Based in Taiwan 🇹🇼, originally from Ethiopia 🇪🇹
-- 💼 Senior dev with 6+ years of experience
+- 😎 I use neovim on omarchy btw 
 - 🛠️ Working on [creolio](https://creolio.com/) - a language learning app
 - 📖 Currently studying Mandarin, you can see my progress [here](https://mandarin.netale.et/).
-
-### 🛠️ Technologies & Tools
-- **Languages:** JavaScript, TypeScript, Python, Java
-- **Frontend:** React, Angular, Vue.js, HTML, CSS
-- **Backend:** Node.js, Express, Django, .NET Core
-- **Databases:** MongoDB, PostgreSQL, MySQL, SQL Server
-- **DevOps:** Docker, GitHub Actions
-- **Cloud:** AWS, Azure, Google Cloud Platform
 
 ### 🔗 You can find me on:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nebex_elias)
