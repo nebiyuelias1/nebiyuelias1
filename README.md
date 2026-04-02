@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 😎 I use neovim on omarchy btw 
-- 🛠️ Working on [creolio](https://creolio.com/) - a language learning app
+- 🛠️ Working on [creolio](https://creolio.com/translation) - a language learning app
 - 📖 Currently studying Mandarin, you can see my progress [here](https://mandarin.netale.et/).
 
 ### 🔗 You can find me on:
