@@ -4,9 +4,10 @@
 ![Today](https://wakapi.netale.et/api/badge/nebiyuelias1/interval:today?label=today)
 
 ### 🚀 About Me
+- 🖥️ Experienced full-stack engineer
 - 😎 I use neovim on omarchy btw 
 - 🛠️ Working on [creolio](https://creolio.com/translation) - a language learning app
-- 📖 Currently studying Mandarin, you can see my progress [here](https://mandarin.netale.et/).
+- 📖 Currently studying Mandarin, you can see my progress [here](https://mandarin.netale.et/)
 
 ### 🔗 You can find me on:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nebex_elias)
