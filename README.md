@@ -1,7 +1,7 @@
 # ሰላም(/ˈsälam/) 👋, I'm Nebiyu!
 ![All time](https://img.shields.io/endpoint?url=https://wakapi.netale.et/api/compat/shields/v1/nebiyuelias1/interval:all_time&label=All%20time&color=blue)
 ![Last 30d](https://wakapi.netale.et/api/badge/nebiyuelias1/nebiyuelias1/interval:30_days?label=last%2030d)
-![Today](https://wakapi.netale.et/api/badge/nebiyuelias1/interval:today?label=today)
+<!-- ![Today](https://wakapi.netale.et/api/badge/nebiyuelias1/interval:today?label=today) -->
 
 ### 🚀 About Me
 - 🖥️ Experienced full-stack engineer
